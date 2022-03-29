@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+'
+I AM SO SEGSY
+I THINK
+IM DUMB
+BRUH'
